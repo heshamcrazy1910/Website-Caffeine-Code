@@ -160,13 +160,11 @@ nav .navbar a{
   object-fit: contain;
   border-radius: 50%;
   border: 3px solid #fff;
-  margin-left: 57%;
   
 }
 .profile-card .text-data {
   display: flex;
   flex-direction: column;
-  align-items: center;
   color: #333;
 }
 .text-data .name {
